@@ -1,5 +1,5 @@
 var getMessage = function(a, b){
-  if(typeof (a) == 'boolean'){
+  if(typeof(a) == 'boolean'){
     if(a){
       return 'Переданное GIF-изображение анимировано и содержит ' + b + ' кадров';
     }
@@ -8,8 +8,8 @@ var getMessage = function(a, b){
     }
   }
 
-  if(typeof (a) == 'number'){
-    return 'Переданное SVG-изображение содержит ' + a + ' объектов и ' + b*4 + ' атрибутов';
+  if(typeof(a) == 'number'){
+    return 'Переданное SVG-изображение содержит ' + a + ' объектов и ' + (b*4) + ' атрибутов';
   }
 
   if(Array.isArray(a)){
