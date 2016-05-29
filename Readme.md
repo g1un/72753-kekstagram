@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Илья Смаль](https://up.htmlacademy.ru/javascript/5/user/72753).
-* Наставник: `Неизвестно`.
+* Наставник: Сергей Вейт.
 
 ---
 
